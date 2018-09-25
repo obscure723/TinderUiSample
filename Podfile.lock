@@ -1,0 +1,16 @@
+PODS:
+  - Poi (3.1.0)
+
+DEPENDENCIES:
+  - Poi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Poi
+
+SPEC CHECKSUMS:
+  Poi: 153f9c751449573ad484dc68b6e4c374cc33d409
+
+PODFILE CHECKSUM: f0aeda65bb2b37181d6c50c977280644701c68cd
+
+COCOAPODS: 1.5.2
